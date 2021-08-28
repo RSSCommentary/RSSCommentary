@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="30"
-   width="130"
-   class="logo"
-   viewBox="0 0 130 30"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Logo.svg"
    id="svg4"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   version="1.1"
+   viewBox="0 0 256 64"
+   class="logo"
+   width="256"
+   height="64">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -30,35 +30,62 @@
   <defs
      id="defs8" />
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview6"
-     showgrid="false"
-     units="mm"
-     inkscape:zoom="5.12"
-     inkscape:cx="98.619041"
-     inkscape:cy="-5.5869136"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:current-layer="layer1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:119.591;fill:#000000;fill-opacity:1;stroke:none"
-     x="3.0414355"
-     y="7.2234092"
-     id="text14"
-     transform="translate(18.164062,16.796875)"><tspan
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="16.819446"
+     inkscape:cx="39.079615"
+     inkscape:zoom="7.2407734"
+     units="mm"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:label="RSSLogo"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.06081163,0,0,0.06517758,-0.33773256,-0.65226433)"
+       id="g12">
+      <g
+         transform="matrix(0.1,0,0,-0.1,0,511)"
+         id="g10">
+        <path
+           d="m 100,4091.2 v -918.8 h 208.3 c 512,0 1340.2,-129.8 1947.7,-306.3 1031.5,-301.3 2072.7,-852.6 2891,-1531.2 291.6,-242.5 823.2,-774.2 1060.8,-1060.8 1021.7,-1232.3 1648.9,-2717 1818,-4304.6 19.6,-181.3 36.7,-426.3 36.7,-543.9 V -4790 h 918.8 918.7 v 80.8 c -2.4,218.1 -53.9,855.1 -100.4,1180.9 C 9623.2,-2227.3 9165,-923.9 8493.7,195.8 7055.6,2587 4649.7,4284.8 1954.7,4811.6 1405.8,4919.3 612,5007.5 180.8,5010 H 100 Z"
+           id="path4" />
+        <path
+           d="m 100,511.8 v -906.5 l 308.7,-29.4 c 1075.5,-102.9 2013.9,-541.5 2766,-1291.2 752.2,-754.6 1188.2,-1690.5 1291.2,-2770.9 l 29.4,-303.8 h 906.5 904 l -14.7,313.6 C 6207.8,-2783.4 5320.9,-1063.5 3970.9,19.4 2954.2,835.2 1653.3,1339.9 413.6,1401.2 L 100,1415.8 Z"
+           id="path6" />
+        <path
+           d="m 1016.3,-2474.7 c -218,-46.6 -392,-144.6 -566,-320.9 -463,-460.6 -460.6,-1176 7.4,-1646.4 668.8,-671.3 1815.5,-294 1972.3,651.7 100.5,607.6 -330.7,1212.7 -943.2,1325.5 -183.8,34.1 -281.8,31.7 -470.5,-9.9 z"
+           id="path8" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="Commentary"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:242.23;fill:#000000;fill-opacity:1;stroke:none"
        x="3.0414355"
-       y="7.2234092"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Faster One';-inkscape-font-specification:'Faster One';fill:#ff0000">RSSC</tspan></tspan></text>
+       y="7.2234092"
+       id="text14"
+       transform="translate(11.156021,33.257791)"><tspan
+         x="3.0414355"
+         y="7.2234092"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Faster One';-inkscape-font-specification:'Faster One';fill:#ff0000">Commentary</tspan></tspan></text>
+  </g>
 </svg>
