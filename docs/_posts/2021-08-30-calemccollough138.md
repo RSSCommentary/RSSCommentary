@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily RSS News headlines for Saturday, August 28, 2021"
+title: "Daily RSS News headlines for Monday, August 30, 2021"
 featured-img: ChannelArt
 ---
 
@@ -11,7 +11,7 @@ Today in the news:
 * Kabul Airport bombing KILLS Service Members, Afghans; Oregon MANDATES outdoor mask, vaccines
 * Kabul Airport ISIS bombing KILLS 12 US Service Members, 60+ Afghans, 5yo girl, Taliban CONDEMNS;
 * Oregon MANDATES outdoor mask, vaccines, Kate Brown is insane, RSS Commentary PLANS protest, lawsuit;
-* Conservative Americans BEAT DOWN far-left Antifa, SMASH, FLIP van DRIVING INTO peaceful protestors;
+* Conservative Americans BEAT DOWN far-left Antifa all up and down the Left coast;
 
 and more top RSS news and political commentary from the intellectual dark web.
 
