@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily RSS News headlines for Monday, August 30, 2021"
+title: "Daily RSS News headlines for Sunday, August 31, 2021"
 featured-img: ChannelArt
 ---
 
